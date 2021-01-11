@@ -1,8 +1,8 @@
 # A Desktop Application
-Created multiple form.
-Created a database connection.
-Used middleTier to make data cleaner.
-Accessed form2 from form1.
+I created multiple form.
+I created a database connection.
+I used middleTier to make data cleaner.
+Then I accessed form2 from form1.
        
 
 
